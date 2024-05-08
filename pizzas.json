@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "CAPRICCIOSA",
+        "ingredients": [
+            "Mozzarella",
+            "Tomato Sauce",
+            "Ham",
+            "Fresh Tomato",
+            "Mushrooms"
+        ],
+        "price": 15,
+        "allergens": [
+            1,
+            2
+        ]
+    },
+    {
+        "id":2,
+        "name": "PEPPERONI",
+        "ingredients": [
+            "Tomato Sauce",
+            "Mozzarella",
+            "Pepperoni"
+        ],
+        "price": 17,
+        "allergens": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 3,
+        "name": "QUATTRO STAGIONI",
+        "ingredients": [
+            "Mozzarella",
+            "Chorizo",
+            "Ham",
+            "Mushrooms",
+            "Green Peppers"
+        ],
+        "price": 15,
+        "allergens": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 4,
+        "name": "MEXICANA",
+        "ingredients": [
+            "Mozzarella",
+            "Tomato Sauce",
+            "Bacon",
+            "Chorizo",
+            "Ham",
+            "Peppers"
+        ],
+        "price": 19,
+        "allergens": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 5,
+        "name": "CARBONARA",
+        "ingredients": [
+            "Cream Sauce",
+            "Blue Cheese",
+            "Mozzarella",
+            "Parmezan",
+            "Bacon"
+        ],
+        "price": 17,
+        "allergens": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 6,
+        "name": "DIAVOLA",
+        "ingredients": [
+            "Mozzarella",
+            "Tomato Sauce",
+            "Pepperoni",
+            "Chorizo",
+            "Black Olives",
+            "Fresh Tomato"
+        ],
+        "price": 17,
+        "allergens": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 7,
+        "name": "QUATTRO FORMAGGI",
+        "ingredients": [
+            "Cheddar",
+            "Parmezan",
+            "Cream Sauce",
+            "Mozzarella",
+            "Cheese"
+        ],
+        "price": 15,
+        "allergens": [
+            1,
+            2
+        ]
+    }
+]

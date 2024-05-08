@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "milk"
+      },
+      {
+        "id": 2,
+        "name": "gluten"
+      },
+      {
+        "id": 3,
+        "name": "sulphur dioxide and sulphites"
+      },
+      {
+        "id": 4,
+        "name": "mustard"
+      },
+      {
+        "id": 5,
+        "name": "soybeans"
+      }
+]
